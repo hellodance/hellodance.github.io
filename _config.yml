@@ -1,15 +1,15 @@
 theme: jekyll-theme-cayman
 # Site Settings
-title: Thiago Rossener | Front-end Developer
-email: youremail@xyz.com
-description: Some text about your blog.
+title: Hello Dance | Dance Institute in Bangalore
+email: kalburgimanjunath1@gmail.comcom
+description: Dance Institute in Bangalore.
 baseurl: "" # the subpath of your site, e.g. /blog/ or empty.
 url: "https://www.rossener.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User settings
-username: Thiago Rossener # it will appear on each page title after '|'
-user_description: Some text about you.
+username: Hello Dance # it will appear on each page title after '|'
+user_description: Dance Institute in Bangalore.
 disqus_username: disqus_username
 
 # Social Media settings
