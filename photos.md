@@ -4,6 +4,72 @@ title: About
 description: Some description.
 permalink: /photos/
 ---
+<style>
+  @import url(https://fonts.googleapis.com/css?family=Open+Sans);
+html,
+body {
+  margin: 0;
+  padding: 10px;
+  background: gainsboro;
+}
+
+#instafeed {
+  width: 100%;
+  display: flex;
+}
+#instafeed a {
+  position: relative;
+  width: 50%;
+}
+@media only screen and (min-width: 580px) {
+  #instafeed a {
+    width: 25%;
+  }
+}
+#instafeed a img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+#instafeed a div.footer {
+  width: auto;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: .5rem 1rem;
+  background: rgba(30, 144, 255, 0.8);
+  font-size: .8rem;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  text-transform: uppercase;
+}
+#instafeed a div.footer img {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  margin-right: .5rem;
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.4);
+}
+#instafeed a div.user {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+#instafeed a div.caption {
+  height: 0;
+  opacity: 0;
+  margin-bottom: 0;
+  background: rgba(0, 0, 0, 0.2);
+}
+#instafeed a:hover .caption, #instafeed a:focus .caption {
+  margin: -.5rem -1rem .5rem;
+  padding: .5rem 1rem;
+  opacity: 1;
+  height: auto;
+}
+
+  </style>
 
 <img itemprop="image" class="img-rounded" src="https://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_200,w_200/v1504971955/neo_ruqszk.jpg" alt="Your Name">
 
