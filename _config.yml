@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
 # Site Settings
-title: Thiago Rossener | Front-end Developer
-email: youremail@xyz.com
-description: Some text about your blog.
+title: Hello Dance | Dance Institute
+email: manjunathkalburgi@gmail.com
+description: Arts and entertainment.
 baseurl: "" # the subpath of your site, e.g. /blog/ or empty.
 url: "https://www.rossener.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
