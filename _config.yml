@@ -20,3 +20,10 @@ twitter_username: twitter_username
 instagram_username: instagram_username
 linkedin_username: linkedin_username
 medium_username: medium_username
+
+facebook_gallery:
+    username: kalburgimanjunath
+    exclude:
+        - 'Timeline Photos'
+        - 'Cover Photos'
+        - 'Profile Pictures'
