@@ -8,7 +8,7 @@ url: "https://www.rossener.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User settings
-username: Thiago Rossener # it will appear on each page title after '|'
+username: Hello Dance # it will appear on each page title after '|'
 user_description: Some text about you.
 disqus_username: disqus_username
 
