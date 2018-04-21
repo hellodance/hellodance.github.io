@@ -6,12 +6,7 @@ permalink: /photos/
 ---
 <style>
   @import url(https://fonts.googleapis.com/css?family=Open+Sans);
-html,
-body {
-  margin: 0;
-  padding: 10px;
-  background: gainsboro;
-}
+
 
 #instafeed {
   width: 100%;
