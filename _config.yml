@@ -6,6 +6,7 @@ description: Dance Institute in Bangalore.
 baseurl: "" # the subpath of your site, e.g. /blog/ or empty.
 url: "https://www.rossener.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
+instagram: BbR55zEnaQL
 
 # User settings
 username: Hello Dance # it will appear on each page title after '|'
