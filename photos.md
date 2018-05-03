@@ -91,3 +91,9 @@ permalink: /photos/
 </script>
 
 {% include insta.html id=page.instagram %}
+
+{% jekyllgram 6 %}
+  <a href="{{ photo.link }}" title="{{ photo.caption.text }}">
+    <img src="{{ photo.images.thumbnail.url }}" title="{{ photo.caption.text }}" />
+  </a>
+{% endjekyllgram %}
