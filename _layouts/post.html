@@ -36,7 +36,12 @@
                     <span class="remaining" style="width:100%;"></span>
                 </div>
             </div>
-
+            {% instagram accesstokenpath:C:\instagram-access-token.txt %}
+	<div>
+		<h3>{{ item.caption.text }}</h3>
+		<img src="{{ item.images.standard_resolution.url }}" />
+	</div>
+{% endinstagram %}
             {% include share.html %}
             {% include author.html %}
             {% include comments.html %}
