@@ -89,3 +89,5 @@ permalink: /photos/
   });
   userFeed.run();
 </script>
+
+{% include insta.html id=page.instagram %}
