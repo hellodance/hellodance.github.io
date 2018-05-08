@@ -5,8 +5,9 @@
         {% for link in site.links %}
           <li><a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
         {% endfor %}
-        <li><a class="feed" href="{{ site.url }}/photos" title="Photos">Photos</a></li>
-        <li><a class="feed" href="{{ site.url }}/contactus" title="Contact Us">Contact Us</a></li>
+        <li><a class="feed" href="/about" title="Photos">Photos</a></li>
+        <li><a class="feed" href="/photos" title="Photos">Photos</a></li>
+        <li><a class="feed" href="/contactus" title="Contact Us">Contact Us</a></li>
       </ul>
     </nav>
 </aside>
