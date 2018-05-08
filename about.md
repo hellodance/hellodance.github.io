@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="http://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_200,w_200/v1504971955/neo_ruqszk.jpg" alt="Your Name">
+<img itemprop="image" class="img-rounded" src="https://scontent.fblr4-1.fna.fbcdn.net/v/t1.0-9/26219571_2051932725087360_7232049119853829118_n.jpg?_nc_cat=0&oh=3ce498a661d2de46468618af33a119f5&oe=5B95112D" alt="Kajol & Priyanka Mukherjee">
 
 ## About Us
 
